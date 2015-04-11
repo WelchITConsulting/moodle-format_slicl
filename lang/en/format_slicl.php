@@ -15,15 +15,8 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *
- * Filename : version
+ * Filename : local_slicl
  * Author   : John Welch <jwelch@welchitconsulting.co.uk>
- * Created  : 03 Jan 2015
+ * Created  : 24 Mar 2015
  */
 
-defined('MOODLE_INTERNAL') || die();
-
-$plugin->version   = 2015032400;
-$plugin->requires  = 2013110500;
-$plugin->maturiy   = MATURITY_BETA;
-$plugin->release   = 2015032400;
-$plugin->component = 'format_slicl';
